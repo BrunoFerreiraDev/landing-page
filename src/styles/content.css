@@ -1,0 +1,142 @@
+.container{
+    width: 100vw;
+    height: 100vh;
+    background-image: url('../images/imgBackground.png');
+    background-size:1440px 800px;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-column-gap:2rem ;
+    align-items: center;
+    justify-items: center;
+
+    font-family: "Poppins";
+    font-style: normal;
+    
+}
+
+.contentInfo{
+    font-weight: 500;
+    color: var(--white);
+    height: 13.063rem;
+    width: 32.813rem;
+    display: inline-block;
+    grid-row: 1/3;
+    justify-self: end;
+}
+.contentInfo>h3{
+    line-height: 3.438rem;
+    height: 8.188rem;
+    font-weight: bold;
+    font-size: 3.125rem;
+}
+
+#form,#infoFormPreco{
+    width: 33.75rem;
+    border-radius: 10px;
+    box-shadow: 0px 8px 0px rgba(0, 0, 0, 0.14688);
+}
+
+#infoFormPreco{
+    height: 3.75rem;
+    background: var(--purple);
+
+    font-weight: normal;
+    font-size: 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    color: var(--white);
+}
+
+    #infoFormPreco>p>span{
+        font-weight: bold;
+        padding-right: 0.3rem;
+    }
+
+.contentForm{    
+    grid-column: 2/3;
+    grid-row: 1/3;
+    display: grid;   
+    grid-row-gap:1.5rem;
+    justify-self: start;
+}
+
+#form{
+    display: grid;
+    grid-template-rows: repeat(6, 0.25fr); 
+
+    height: 29.625rem; 
+    
+    padding: 2.5rem;
+    background: var(--white);
+}
+
+input,button{
+    width: 28.75rem;
+    height: 3.5rem; 
+}
+
+input{
+    box-sizing: border-box;
+    border-radius: 5px;
+    border: 1px solid #DEDEDE;
+    font-weight: 600;
+    font-size: 0.875rem;
+    line-height: 1.625rem;
+    padding-left: 2rem;
+
+    background-repeat: no-repeat;
+    background-position: 26.25rem;
+    color: var(--black);
+}
+
+input>img{
+    width: 24px;
+    height: 24px;
+    justify-self: end;
+}
+
+form>input:focus{
+    outline-width: 0;
+    border: 1px solid #5E54A4;
+}
+
+label{
+    font-weight: 500;
+    font-size: 11px;
+    line-height: 16px;
+    margin: 0.3rem 0 0.7rem 0;
+    text-align: right;
+
+    color: var(--pink);
+}
+
+button{
+    background: #38CC8B;
+    box-shadow: inset 0px -4px 0px rgba(0, 0, 0, 0.0908818);
+    border-radius: 5px;
+
+    font-weight: 600;
+    font-size: 0.938rem;
+    color: var(--white);
+}
+
+form>p{
+    height: 1.625rem;
+    font-weight: 500;
+    font-size: 0.688rem;
+    color: var(--gray);
+
+    justify-self: center;
+    align-self: center;
+    margin-top: 0.5rem;
+}
+
+form>p>span{
+    color: var(--pink);
+}
+
+input + input, button{
+    margin-top: 1.15rem;
+}
