@@ -13,7 +13,7 @@ const validateRegexEmail = /\S+@\S+\.\S+/; /* regex that validate the email*/
 const testInput = (label, element, text) => {
     label.innerHTML = text
     element.parentNode.insertBefore(label, element.nextSibling)
-    element.style = "border-color: #FF7979; background-image: url('/src/images/iconAviso.png');"
+    element.style = "border-color: #FF7979; background-image: url('https://raw.githubusercontent.com/BrunoFerreiraDev/landing-page/main/src/images/iconAviso.png');"
 }
 
 // Listenin the form and intercept the values
