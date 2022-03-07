@@ -1,17 +1,10 @@
 # landing-page
 
-[![Author](https://img.shields.io/badge/author-BrunoFerreira-835AFD?style=flat-square)](https://github.com/BrunoFerreiraCba)
-[![Languages](https://img.shields.io/github/languages/count/BrunoFerreiraCba/letmeask?color=%23835AFD&style=flat-square)](#)
-[![Stars](https://img.shields.io/github/stars/BrunoFerreiraCba/letmeask?color=835AFD&style=flat-square)](https://github.com/josepholiveira/letmeask/stargazers)
+## Page
+<img src=".github/preview.PNG" alt=" preview" width="750px">
 
-<h4 align="center">
-  Let Me Ask is a platform built to let you gather questions from your viewers during your stream and let them vote for which are the best questions for you to answer.
-</h4>
-
-<img src=".github/preview.PNG" alt="Let Me Ask previe" width="750"/>
-
-## landing-page link published
-https://landing-page-six-navy.vercel.app/
+## Link da publicação
+[Calculadora](https://calculadora-zeta-eight.vercel.app/)
 
 ## Tecnologies
 
@@ -19,11 +12,12 @@ This project was developed using cutting edge front-end technologies.
 
 
 - [ReactJS](https://reactjs.org/)
-- [Typescript](https://www.typescriptlang.org/)
-- [Firebase Authentication](https://firebase.google.com/products/auth)
-- [Firebase Realtime Database](https://firebase.google.com/products/realtime-database)
+- [JavaScript](https://JavaScript.org/)
+- [Css3](https://css3.org/)
+- [Html5](https://html5.org/)
 
 ## 💻 Getting started
+
 
 ### Requirements
 
@@ -32,7 +26,7 @@ This project was developed using cutting edge front-end technologies.
 **Clone the project and access the folder**
 
 ```bash
-$ git clone https://github.com/josepholiveira/letmeask.git && cd letmeask
+$ git clone https://github.com/BrunoFerreiraDev/Calculadora.git && cd Calculadora
 ```
 
 **Follow the steps below**
