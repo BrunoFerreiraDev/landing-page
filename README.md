@@ -6,7 +6,7 @@
 
 
 ## Page
-<img src=".github/Calculadora.PNG" alt=" preview" width="750px">
+<img src=".github/preview.PNG" alt=" preview" width="750px">
 
 ## Link da publicação
 [Calculadora](https://calculadora-zeta-eight.vercel.app/)
