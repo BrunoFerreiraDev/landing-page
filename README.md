@@ -2,21 +2,16 @@
 
 
 
-## Calculadora Mac
-
-
 ## Page
 <img src=".github/preview.PNG" alt=" preview" width="750px">
 
 ## Link da publicação
-[Calculadora](https://calculadora-zeta-eight.vercel.app/)
+[landing-page](https://leading-page-zeta-eight.vercel.app/)
 
 ## Tecnologies
 
 This project was developed using cutting edge front-end technologies.
 
-
-- [ReactJS](https://reactjs.org/)
 - [JavaScript](https://JavaScript.org/)
 - [Css3](https://css3.org/)
 - [Html5](https://html5.org/)
