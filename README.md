@@ -17,7 +17,6 @@ https://landing-page-six-navy.vercel.app/
 
 This project was developed using cutting edge front-end technologies.
 
-
 - [ReactJS](https://reactjs.org/)
 - [Typescript](https://www.typescriptlang.org/)
 - [Firebase Authentication](https://firebase.google.com/products/auth)
