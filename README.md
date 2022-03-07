@@ -6,7 +6,7 @@
 <img src=".github/preview.PNG" alt=" preview" width="750px">
 
 ## Link da publicação
-[landing-page](https://leading-page-zeta-eight.vercel.app/)
+[landing-page](https://landing-page-six-navy.vercel.app//)
 
 ## Tecnologies
 
